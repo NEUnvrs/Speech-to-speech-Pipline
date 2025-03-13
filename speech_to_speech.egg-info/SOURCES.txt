@@ -1,0 +1,11 @@
+setup.py
+speech_to_speech.egg-info/PKG-INFO
+speech_to_speech.egg-info/SOURCES.txt
+speech_to_speech.egg-info/dependency_links.txt
+speech_to_speech.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/llm/__init__.py
+src/llm/llm_module.py
+src/sst/__init__.py
+src/sst/stt_module.py
